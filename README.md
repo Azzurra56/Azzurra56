@@ -6,7 +6,7 @@
   
   ### 💫 Welcome to my GitHub Profile!
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BDBF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Welcome+to+my+Profile!+Always+Open+to+meet+new+friends" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BDBF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Welcome+to+my+Profile!;+Always+Open+to+meet+new+friends;" alt="Typing SVG" />
   
 </div>
 
