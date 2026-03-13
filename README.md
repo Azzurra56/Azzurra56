@@ -30,9 +30,10 @@ education:
 fields_of_interests:
   [
     "Web Development",
-    "Mobile Development",
+    "Technical Support",
     "UI/UX",
-    "Open Source"
+    "Open Source",
+    "Learning new things"
   ]
 currently_learning: ["New Technologies", "Best Practices"]
 hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
