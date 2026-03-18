@@ -21,7 +21,7 @@
 ```yaml
 name: Azzurra56
 located_in: Worldwide 🌍
-current_job: Developer
+current_job: DOST STII Intern Tech Support
 education:
   [
     "Self-Taught Developer",
