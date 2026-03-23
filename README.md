@@ -65,6 +65,11 @@ hobbies: ["Coding", "Problem Solving", "Tech Exploration"]
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-7952B3?style=for-the-badge&logo=github&logoColor=white)
 
+### ✨ AI Tools and Assistant
+- ![Copilot](https://via.placeholder.com/50?text=Copilot) [Copilot](https://github.com/features/copilot)
+- ![GPT](https://via.placeholder.com/50?text=GPT) [GPT](https://openai.com)
+- ![Gemini](https://via.placeholder.com/50?text=Gemini) [Gemini](https://gemini.google.com)
+
 </div>
 
 ---
